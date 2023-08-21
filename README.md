@@ -9,3 +9,8 @@ My DSP homework
 ps：虽然安卓已经有很强的图片压缩算法：鲁班算法，但在此只是作为演示  
 
 /matlab 为matlab利用fft压缩图片的代码
+
+软件截图示例
+<div>
+<img src="./img.png" width="50%">
+</div>
